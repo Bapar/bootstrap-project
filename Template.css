@@ -1,0 +1,66 @@
+#main img{
+	width: 680px;
+	height: 460px;
+	margin: auto;
+}
+#main h3{
+
+}
+#header{
+
+}
+#welcome{
+	color: white;
+	padding: 15px;
+}
+#headerLinks{
+	float: right;
+}
+
+#sidebar{
+}
+#sidebar ul{
+	margin-left: 12px;
+	display: block;
+	padding: 12px;
+	list-style: none;
+}
+#main{
+	padding: 20px;
+	font-family: Verdana, Arial; 
+}
+#footer{
+	color: black;
+	padding: 5px;
+	height: 30px;
+	background-color: white;
+	margin-top: 10px;
+	border-radius: 5px;
+	float: right;
+	clear: both;
+	position: relative;
+}
+#GPUImage{
+	width: 400px;
+	height: 180px;
+}
+#CPUImage{
+	width: 300px;
+	height: 300px;
+}
+#ramPic{
+	height: 200px;
+	width: 240px;
+}
+#hdd{
+	float: right;
+}
+#motherboardPic{
+	width: 420px;
+	height: 300px;
+	float: left;
+}
+#casePic{
+	height: 300px;
+	Width: 300px;
+}
